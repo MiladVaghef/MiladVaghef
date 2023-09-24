@@ -1,5 +1,9 @@
 <img src="https://wallpapercave.com/wp/wp10474992.png">
 
+<h1>Know me better :</h1>
+
+I'm a programming student located in iran. I believe I'm way more active in learning coding than the average people and that gives me enough confidence to go beyond my limits. I'm currently on my learning stage of life but I would love to work on serious projects because I believe I can handle them 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/thenetions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenetions" height="30" width="40" /></a>
