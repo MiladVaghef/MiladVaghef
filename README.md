@@ -1,5 +1,5 @@
-<h1 align="center">Hi There! Netions</h1>
-<h1 align="center">I'm a professional nerd at coding and designing and I love what I do</h1>
+<h1 align="center">Everything about me : </h1>
+
 
 
 - 🌱 I’m currently learning **Advanced CSS**
