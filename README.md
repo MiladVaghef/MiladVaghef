@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenetions&label=Profile%20views&color=blue&style=flat" alt="thenetions" /> </p>
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-darkgreen?style=flat)
-
 
 - 🌱 I’m currently learning **Advanced CSS**
 
@@ -24,6 +22,9 @@
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thenetions&theme=dark-smoky&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenetions&label=Profile%20views&color=blue&style=flat" alt="thenetions" /> </p>
+  
 </div>
 
 
