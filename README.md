@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenetions&label=Profile%20views&color=dark&style=flat" alt="thenetions" /> </p>
 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-darkgreen?style=flat)
+
+
 - 🌱 I’m currently learning **Advanced CSS**
 
 - 📫 How to reach me **netionsdev@gmail.com**
