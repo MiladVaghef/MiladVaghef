@@ -13,12 +13,13 @@ I'm a programming student located in iran. I believe I'm way more active in lear
 
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://instagram.com/thenetions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenetions" height="30" width="40" /></a>
 <a href="https://discord.gg/netions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="netions" height="30" width="40" /></a>
 </p>
 
+<h1>Stats :</h1>
 
 <div align="center">
   
