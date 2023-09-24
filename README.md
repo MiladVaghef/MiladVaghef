@@ -14,10 +14,7 @@ I'm a programming student located in iran. I believe I'm way more active in lear
 </div>
 
 <h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://instagram.com/thenetions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenetions" height="30" width="40" /></a>
-<a href="https://discord.gg/netions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="netions" height="30" width="40" /></a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/netions) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenetions) 
 
 <h1>Stats :</h1>
 
