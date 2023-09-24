@@ -1,7 +1,7 @@
 <h1 align="center">Hi There! Netions</h1>
 <h3 align="center">I'm a professional nerd at coding and designing and I love what I do</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenetions&label=Profile%20views&color=dark&style=flat" alt="thenetions" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenetions&label=Profile%20views&color=blue&style=flat" alt="thenetions" /> </p>
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-darkgreen?style=flat)
 
