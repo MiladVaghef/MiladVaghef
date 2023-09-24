@@ -1,12 +1,4 @@
-<h1 align="center">Everything about me : </h1>
-
-
-
-- 🌱 I’m currently learning **Advanced CSS**
-
-- 📫 How to reach me **netionsdev@gmail.com**
-
-- ⚡ Fun fact **I like designing as much I love coding <3**
+<h1>Everything about me : </h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
