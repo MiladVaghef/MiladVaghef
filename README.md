@@ -1,4 +1,4 @@
-<h1 align="center">Coding Side of Me</h1>
+<h1 align="center">Developer Side of Me</h1>
 
 <img src="https://wallpapercave.com/wp/wp10474992.png">
 
