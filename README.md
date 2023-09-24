@@ -21,7 +21,7 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thenetions&theme=dark-smoky&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
-  <img src="https://komarev.com/ghpvc/?username=thenetions&label=Profile%20views&color=blue&style=flat" alt="thenetions" />
+ [![](https://visitcount.itsvg.in/api?id=thenetions&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
