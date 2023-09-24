@@ -23,7 +23,7 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thenetions&theme=dark-smoky&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenetions&label=Profile%20views&color=blue&style=flat" alt="thenetions" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=thenetions&label=Profile%20views&color=blue&style=flat" alt="thenetions" />
   
 </div>
 
