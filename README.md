@@ -34,7 +34,7 @@ Before entering the world of codes, I was always intrested in designing and draw
 
 <h1 align="left">Send Me a Message</h1>
 
-I always check my emails, and I'm more comfortable with discord for talking 
+I always check my emails, but I'm more comfortable with discord for talking 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/netions) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenetions) 
 
