@@ -46,7 +46,9 @@ I always check my emails, but I'm more comfortable with discord for talking
 
  [![](https://visitcount.itsvg.in/api?id=thenetions&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<div display="none"
+<div display="none">
+  
  ![](https://komarev.com/ghpvc/?username=TheNetions&color=grey)
+ 
 </div>
 </div>
