@@ -45,5 +45,7 @@ I always check my emails, but I'm more comfortable with discord for talking
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thenetions&theme=dark-smoky&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
  [![](https://visitcount.itsvg.in/api?id=thenetions&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+ ![](https://komarev.com/ghpvc/?username=TheNetions&color=green)
   
 </div>
