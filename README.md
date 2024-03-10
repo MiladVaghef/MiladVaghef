@@ -1,6 +1,6 @@
 <h1 align="center">Developer Side of Me</h1>
 
-<img src="https://wallpapercave.com/wp/wp10474992.png">
+![05uhd2ihjs671](https://github.com/MiladVaghef/MiladVaghef/assets/143057362/5efcd45d-99c4-4107-9453-aa8230be7f39)
 
 <h1>Know me better :</h1>
 
